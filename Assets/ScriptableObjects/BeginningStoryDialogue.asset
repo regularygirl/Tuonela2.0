@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec5cdb480f0daf47803af7e2d7cb589, type: 3}
+  m_Name: BeginningStoryDialogue
+  m_EditorClassIdentifier: 
+  chats:
+  - chatIdentifier: Text1
+    chatTexts:
+    - "Por favor, antes de ir a dormir, \xA1cu\xE9ntame una de esas historias!"
+  - chatIdentifier: Text2
+    chatTexts:
+    - "Est\xE1 bien, pero s\xF3lo una."
+  - chatIdentifier: Text3
+    chatTexts:
+    - "S\xED\xED\xED\xED. \xBFDe qu\xE9 trata la historia?"
+  - chatIdentifier: Text4
+    chatTexts:
+    - "Esta historia trata de un misterioso viajero, en una tierra misteriosa, y
+      nuestra historia comienza cuando el intrigante viajero est\xE1 a punto de entrar
+      en un peligroso laberinto lleno de monstruos..."
+  specialChatSoundsForCharacter: []

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec5cdb480f0daf47803af7e2d7cb589, type: 3}
+  m_Name: SellerDialogue
+  m_EditorClassIdentifier: 
+  chats:
+  - chatIdentifier: Greet_NewPlayer
+    chatTexts:
+    - "\xA1Hola! \xA1Otra persona de mente estable! \xA1Bienvenido a mi humilde tienda!"
+  - chatIdentifier: Greet_MetPlayer
+    chatTexts:
+    - "Hola de nuevo amigo, \xBFte apetece apostar un poco?"
+    - Bienvenido de nuevo.
+    - "\xA1Bienvenido de nuevo amigo!"
+    - "\xA1Ah, mi cliente favorito!"
+    - "Encantado de volver a verte. \xBFQuieres jugar un poco?"
+    - "Encantado de volver a verte. \xBFQuieres jugar un poco?"
+    - "Aceite de l\xE1mpara, cuerda, bombas \xBFLo quieres?\r\nEs tuyo, amigo m\xEDo.\r\n.\r\nMientras
+      tengas suficiente oro"
+  - chatIdentifier: Saying_Goodbye
+    chatTexts:
+    - "\xA1No seas un extra\xF1o!"
+    - "\xA1Hasta luego entonces!"
+    - "Por favor, vuelva m\xE1s tarde."
+    - "\xA1Vuelve vivo otra vez!"
+  - chatIdentifier: Gambling_Success
+    chatTexts:
+    - "\xA1Y voil\xE1!"
+    - "\xA1Aqu\xED tienes!"
+    - "\xA1Un 20 natural!"
+    - Espero que lo disfrute.
+  - chatIdentifier: Buy_Failure
+    chatTexts:
+    - "Eh... \xA1vuelve cuando tengas m\xE1s oro!"
+    - "Necesitar\xE1s m\xE1s dinero."
+    - "Por favor, \xA1vuelve cuando tengas suficiente dinero para esto!"
+    - "Lo siento amigo, no puedo dar cr\xE9dito\r\n.\r\nVuelve cuando seas un poco
+      Mmmmm... \xA1M\xE1s rico!"
+  - chatIdentifier: Buy_Success
+    chatTexts:
+    - "\xA1Recuerda seguir vivo, necesito clientes!"
+    - "Ten m\xE1s cuidado la pr\xF3xima vez."
+    - "\xA1Una dosis de curaci\xF3n enseguida!"
+    - "Aqu\xED hay uno que hice antes."
+    - "\xA1Deber\xEDa tener algunos de esos... aqu\xED!"
+    - "\xA1Aqu\xED tienes!"
+    - "\xA1Arriba los pantalones!"
+    - "\xA1Uno para el camino!"
+  specialChatSoundsForCharacter: []
