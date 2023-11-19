@@ -1,4 +1,5 @@
 <h1>Tuonela 2.0<img src="https://user-images.githubusercontent.com/54834264/137347020-96f236c9-af2a-42c8-ba1b-da9598b639e6.png" alt="" width="480" height="" /></h1>
+<img alt="Videojuego" src="https://img.shields.io/badge/Videojuego?color=violet">
 <h3><em>Proyecto de grado - Creaci&oacute;n de mapas procedurales para videojuegos Roguelike 3D basado en tipos de jugador</em></h3>
 <p>&nbsp;</p>
 <h2>Introducci&oacute;n</h2>
