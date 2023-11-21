@@ -20,9 +20,9 @@
 <h2>&nbsp;</h2>
 <h2>Anexos</h2>
 <p>En esta sección de anexos se adjuntan todos los entregables del proyecto:</p>
-<p>Documento con la revisión y la justificación de la selección de las técnicas de mapas procedurales, enlace: https://docs.google.com/spreadsheets/d/12vZo5BD8_oe4qJdvMZfzt-hCD7Hkpu1R6UGwrENvkCE/edit?usp=sharing</p>
+<p>Documento con la revisión y la justificación de la selección de las técnicas de mapas procedurales y tipos de jugadores, enlace: https://docs.google.com/spreadsheets/d/12vZo5BD8_oe4qJdvMZfzt-hCD7Hkpu1R6UGwrENvkCE/edit?usp=sharing</p>
 <p>Pruebas en voz alta: </p>
-<p>Manual de usuario: https://drive.google.com/file/d/1zycwD4f8w865uUxTWYSBIo4p7b8so0Os/view?usp=sharing</p>
+<p>Manual de usuario: </p>
 <p>Formulario de usabilidad:https://forms.gle/fSpx9gHed3vv2YZ86</p>
 <p>&nbsp;</p>
 
@@ -32,3 +32,12 @@
 <h2>Repositorio</h2>
 <p>Videojuego original: https://github.com/PaerrePampula/Crawler</p>
 <p>&nbsp;</p>
+
+<h2>Capturas de pantalla</h2>
+
+<img src="https://github.com/regularygirl/Tuonela2.0/blob/main/capturasDepantalla/tipoDeJugador.PNG" alt="" width="600" height="" />
+<img src="https://github.com/regularygirl/Tuonela2.0/blob/main/capturasDepantalla/tamanoMapa.PNG" alt="" width="600" height="" />
+<img src="https://github.com/regularygirl/Tuonela2.0/blob/main/capturasDepantalla/tienda.PNG" alt="" width="600" height="" />
+<img src="https://github.com/regularygirl/Tuonela2.0/blob/main/capturasDepantalla/Enemigos.PNG" alt="" width="600" height="" />
+<img src="https://github.com/regularygirl/Tuonela2.0/blob/main/capturasDepantalla/cazaRecompensas.PNG" alt="" width="600" height="" />
+
