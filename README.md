@@ -15,7 +15,7 @@
 <li>Descarga la &uacute;ltima versi&oacute;n desde la secci&oacute;n de <a href="https://github.com/regularygirl/Tuonela2.0/releases" target="_new">lanzamientos</a> llamado "Tuonela.-.Lanzamiento.zip
 ".</li>
 <li>Descomprime el archivo ZIP descargado.</li>
-<li>Abre el ejecutable "Tuonela lanzamiento" para disfrutar del juego.</li>
+<li>¡Y listo!. Abre el ejecutable "Tuonela lanzamiento" para disfrutar del juego.</li>
 </ol>
 <h2>&nbsp;</h2>
 <h2>Anexos</h2>
