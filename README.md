@@ -18,6 +18,8 @@
 <li>¡Y listo!. Abre el ejecutable "Tuonela lanzamiento" para disfrutar del juego.</li>
 </ol>
 <h2>&nbsp;</h2>
+<p><strong> Gesti&oacute;n de Archivos en el Directorio del Proyecto</strong></p>
+<p>La configuraci&oacute;n del directorio del proyectoest&aacute; estructurada por un conjunto de carpetas predefinidas por Unity. Dentro de esta estructura, ciertos nombres de carpetas son interpretados por Unity como directrices que indican que el contenido de dicha carpeta debe recibir un tratamiento especial. En el contexto de la implementaci&oacute;n, la carpeta que alberga los scripts del lenguaje C# que fueronmodificados o creados en el transcurso del desarrollo del proyecto est&aacute; situada en la ruta Assets &rarr; Scripts &rarr; Procedural. En esta carpeta espec&iacute;fica se encuentran almacenados los archivosprincipales bajo los t&iacute;tulos de "<a href="https://github.com/regularygirl/Tuonela2.0/blob/main/Assets/Scripts/Procedural/DelaunayTriangulation.cs">DelaunayTriangulation.cs</a>" y "<a href="https://github.com/regularygirl/Tuonela2.0/blob/main/Assets/Scripts/Procedural/ProceduralGeneration.cs">ProceduralGeneration.cs</a>".</p>
 <h2>Anexos</h2>
 <p>En esta sección de anexos se adjuntan todos los entregables del proyecto:</p>
 <p>Documento con la revisión y la justificación de la selección de las técnicas de mapas procedurales y tipos de jugadores: https://docs.google.com/spreadsheets/d/12vZo5BD8_oe4qJdvMZfzt-hCD7Hkpu1R6UGwrENvkCE/edit?usp=sharing</p>
