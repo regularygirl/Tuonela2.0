@@ -23,6 +23,7 @@
 <p>Documento con la revisión y la justificación de la selección de las técnicas de mapas procedurales y tipos de jugadores: https://docs.google.com/spreadsheets/d/12vZo5BD8_oe4qJdvMZfzt-hCD7Hkpu1R6UGwrENvkCE/edit?usp=sharing</p>
 <p>Pruebas en voz alta: https://drive.google.com/file/d/18fFhZR1EzgvJ5He8wVhmvxrmcDfETslo/view?usp=sharing </p>
 <p>Manual de usuario: https://drive.google.com/file/d/1zycwD4f8w865uUxTWYSBIo4p7b8so0Os/view?usp=sharing </p>
+<p>Tablero de actividades: https://trello.com/invite/b/CNM6XEqI/ATTI0187333b32b7f0b59c5e9e10c02c2d183B53929B/proyecto-de-grado </p>
 <p>Formulario de usabilidad:https://forms.gle/fSpx9gHed3vv2YZ86</p>
 <p>&nbsp;</p>
 
